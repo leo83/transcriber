@@ -1,0 +1,9 @@
+.python-version
+__pycache__
+models
+tmp
+.venv
+.pytest_cache
+.vscode
+dataholic-playground-*.json
+todo.txt

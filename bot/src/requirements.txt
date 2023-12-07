@@ -1,0 +1,4 @@
+asyncio
+aiogram
+google-cloud-storage
+requests

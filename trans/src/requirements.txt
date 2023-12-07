@@ -1,0 +1,7 @@
+whispercpp
+ffmpeg-python
+uvicorn
+fastapi
+numpy
+google-cloud-storage
+pathlib
